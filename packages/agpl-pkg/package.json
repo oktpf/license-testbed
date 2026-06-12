@@ -1,0 +1,8 @@
+{
+  "name": "@license-testbed/agpl-pkg",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Demo package under AGPL-3.0 — network copyleft, most restrictive for SaaS",
+  "license": "AGPL-3.0-only",
+  "main": "index.js"
+}
