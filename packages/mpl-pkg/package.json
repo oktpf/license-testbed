@@ -1,0 +1,8 @@
+{
+  "name": "@license-testbed/mpl-pkg",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Demo package under MPL-2.0 — file-level copyleft",
+  "license": "MPL-2.0",
+  "main": "index.js"
+}
