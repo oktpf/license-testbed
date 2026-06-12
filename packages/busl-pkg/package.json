@@ -1,0 +1,8 @@
+{
+  "name": "@license-testbed/busl-pkg",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Demo package under BUSL-1.1 — source-available, production-use restriction, not OSI-approved",
+  "license": "BUSL-1.1",
+  "main": "index.js"
+}
