@@ -1,0 +1,8 @@
+{
+  "name": "@license-testbed/unlicense-pkg",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Demo package under Unlicense — public domain dedication",
+  "license": "Unlicense",
+  "main": "index.js"
+}
