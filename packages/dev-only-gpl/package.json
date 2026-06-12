@@ -1,0 +1,8 @@
+{
+  "name": "@license-testbed/dev-only-gpl",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dev-only GPL-3.0 package — NOT imported in production code",
+  "license": "GPL-3.0-only",
+  "main": "index.js"
+}
