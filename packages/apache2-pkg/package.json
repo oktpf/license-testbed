@@ -1,0 +1,8 @@
+{
+  "name": "@license-testbed/apache2-pkg",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Demo package under Apache-2.0 — permissive with patent grant",
+  "license": "Apache-2.0",
+  "main": "index.js"
+}
