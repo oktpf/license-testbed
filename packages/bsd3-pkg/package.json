@@ -1,0 +1,8 @@
+{
+  "name": "@license-testbed/bsd3-pkg",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Demo package under BSD-3-Clause — permissive with non-endorsement clause",
+  "license": "BSD-3-Clause",
+  "main": "index.js"
+}
