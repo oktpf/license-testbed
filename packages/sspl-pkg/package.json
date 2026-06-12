@@ -1,0 +1,8 @@
+{
+  "name": "@license-testbed/sspl-pkg",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Demo package under SSPL-1.0 — MongoDB license, cloud-restricted, not OSI-approved",
+  "license": "SSPL-1.0",
+  "main": "index.js"
+}
