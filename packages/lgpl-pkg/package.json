@@ -1,0 +1,8 @@
+{
+  "name": "@license-testbed/lgpl-pkg",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Demo package under LGPL-2.1 — weak copyleft, linking exception",
+  "license": "LGPL-2.1-only",
+  "main": "index.js"
+}
