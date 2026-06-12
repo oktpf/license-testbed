@@ -1,0 +1,8 @@
+{
+  "name": "@license-testbed/mit-pkg",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Demo package under MIT — simple permissive",
+  "license": "MIT",
+  "main": "index.js"
+}
