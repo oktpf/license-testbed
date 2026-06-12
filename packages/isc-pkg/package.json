@@ -1,0 +1,8 @@
+{
+  "name": "@license-testbed/isc-pkg",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Demo package under ISC — simple permissive, functionally MIT",
+  "license": "ISC",
+  "main": "index.js"
+}
