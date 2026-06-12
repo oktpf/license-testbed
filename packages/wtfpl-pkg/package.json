@@ -1,0 +1,8 @@
+{
+  "name": "@license-testbed/wtfpl-pkg",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Demo package under WTFPL — do-what-the-fuck-you-want public license",
+  "license": "WTFPL",
+  "main": "index.js"
+}
